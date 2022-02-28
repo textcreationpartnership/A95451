@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two most strange wonders; the one is a true relation of an angel appearing to Mr James Wise minister in York-shire, and the many strange and wonderful visions which he at that time beheld; as also his prophecies concerning some years of plenty, and a great dearth presently afterwards to ensue; with the burning and utter destruction of many goodly towns and countries. The other being a most fearful judgment which befell Dorothy Matley of Ashover in the County of Derby on Saturday the 23. of March last, who having couzened a poor lad of two single pence, wish't that the ground might bury her alive if she had it, which presently came to pass, for the ground opened and swallowed her and the tub she washed lead-ore in. The truth of this wonder is here incerted by Mr. Iddolls minister; Tho. Riche, Henry Wapping kinsman to her, Giles VVinter, Tho. Smith, Francis Brown and many others.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95451</idno>
+            <idno type="STC">Wing T3490</idno>
+            <idno type="STC">Thomason E1874_4</idno>
+            <idno type="STC">ESTC R209765</idno>
+            <idno type="EEBO-CITATION">99868628</idno>
+            <idno type="PROQUEST">99868628</idno>
+            <idno type="VID">170505</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170505)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 233:E1874[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two most strange wonders; the one is a true relation of an angel appearing to Mr James Wise minister in York-shire, and the many strange and wonderful visions which he at that time beheld; as also his prophecies concerning some years of plenty, and a great dearth presently afterwards to ensue; with the burning and utter destruction of many goodly towns and countries. The other being a most fearful judgment which befell Dorothy Matley of Ashover in the County of Derby on Saturday the 23. of March last, who having couzened a poor lad of two single pence, wish't that the ground might bury her alive if she had it, which presently came to pass, for the ground opened and swallowed her and the tub she washed lead-ore in. The truth of this wonder is here incerted by Mr. Iddolls minister; Tho. Riche, Henry Wapping kinsman to her, Giles VVinter, Tho. Smith, Francis Brown and many others.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Visions --  Early works to 1800.</term>
+               <term>Appartitions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170505:1" rendition="simple:additions"/>
+            <p>Two moſt Strange WONDERS; THE ONE Is a true Relation of an Angel appearing to Mr <hi>James Wiſe</hi> Miniſter in
+<hi>York-ſhire,</hi> and the ma<g ref="char:EOLhyphen"/>ny ſtrange and wonderful Viſions which he at that time beheld; As alſo his Prophecies concerning ſome years of plenty, and a great dearth preſently afterwards to enſue; with the burning and utter deſtruction of many goodly Towns and Countries.</p>
+            <p>THE OTHER Being a moſt fearful judgment which befell
+<hi>Dorothy Matley</hi> of <hi>Aſhover</hi> in the County of <hi>Der<g ref="char:EOLhyphen"/>by</hi> on Saturday the 23. of <hi>March</hi> laſt, who having couzened a poor Lad of two ſingle pence, wiſh't that the ground might bury her alive if ſhe had it, which preſently came to paſs, for the ground opened and ſwallowed her and the <hi>Tub</hi> ſhe waſhed <hi>Lead-Ore</hi> in.</p>
+            <p>
+               <hi>The truth of this Wonder is here incerted by</hi> Mr.
+<hi>Iddolls</hi> Miniſter; <hi>Tho. Rice, Henry Wapping</hi> kinſ<g ref="char:EOLhyphen"/>man to her; <hi>Giles VVinter, Tho. Smith, Francis Brown:</hi> and many others.</p>
+            <p>Printed for W. <hi>Gilbertſon,</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div n="apparition" type="account">
+            <pb facs="tcp:170505:2"/>
+            <pb n="3" facs="tcp:170505:2"/>
+            <head>Moſt prodigious tidings from the NORTH: OR, A moſt true Relation of an Angell appearing to Doctor <hi>James Wiſe,</hi> Parſon of the Town of <hi>Greenway</hi> in the Weſt Ridings in the Coun<g ref="char:EOLhyphen"/>ty of
+<hi>York,</hi> to whom an Angel ap<g ref="char:EOLhyphen"/>peared on the 18. of March laſt; and an account of the ſeveral Vi<g ref="char:EOLhyphen"/>ſions that appeared to him.</head>
+            <p>
+               <hi>THe Land of <hi>England</hi> hath for theſe many years been account<g ref="char:EOLhyphen"/>ed the Land of Wonders. Er<g ref="char:EOLhyphen"/>rors and Diviſions prevailing, the Angels of the Churches have been dumb; but will you now hear the ſtrange
+<pb n="4" facs="tcp:170505:3"/>Viſions, and the tidings which an Angel,</hi> (who is a Miniſtring Spirit) <hi>hath Re<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aled for future times, for the better ſettlement of many diſcontented ſpirits in this Kingdom.</hi>
+            </p>
+            <p>
+               <hi>MAſter <hi>James Wiſe</hi>
+               </hi> Miniſter of
+<hi>Green<g ref="char:EOLhyphen"/>way</hi> in the County of <hi>York,</hi> ſeven miles from the City thereof; walking ſome few miles to viſit a friend of his not far from
+<hi>Greenway</hi> where his Parſonage was, did méet in the way with another Miniſter to whom having communicated his mind, and being both full of penſive thoughts; Mr. <hi>Greenway</hi> having taken his leave of him, Beheld, where before his face there appeared many ſtrange Vi<g ref="char:EOLhyphen"/>ſions which might have amazed any other Spirit but his alone, who was throughly exerciſed in all works of Devotion and Humility; yet he could not be ſo much maſter of himſelf, but at the ſight of the firſt Viſion which appeared to him with a Croſs in his hand, he trembled down up<g ref="char:EOLhyphen"/>on his knées, and hearing a voice that <hi>by this you ſhall overcome,</hi> he ſell proſtrate on his face, and ignorantly worſhipped that, which before he too profanely didneg<g ref="char:EOLhyphen"/>lect.</p>
+            <pb n="5" facs="tcp:170505:3"/>
+            <p>In this great diſtreſſe both of Body and of Mind, he continued for ſome cer<g ref="char:EOLhyphen"/>tain hours; and another Viſion, which carrying a great Splendor with it appear<g ref="char:EOLhyphen"/>ing, he lay on the ground (dank as if then was) for the ſpace of an hour, till ſome honeſt men, who knew him, paſſing by, did-raiſe him from the ground, and deſi<g ref="char:EOLhyphen"/>red to know the reaſon of that his ſo me<g ref="char:EOLhyphen"/>lancholly diſtemper.</p>
+            <p>He then looking up, as from a Trance, acknowledged that he had ſéene many ſtrange Viſions during the time of that Trance, and they deſiring him to return to his own Houſe, becauſe he looked ſo ex<g ref="char:EOLhyphen"/>treamly ill; he beſéeched them to let him alone for he did believe, that by a pecu<g ref="char:EOLhyphen"/>liar appointment he came forth, a ſelected man to obſerve thoſe events which would be of great concernment to this King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Some there were by, who hereupon did urge him with more perſwaſions to go home, and buy ſome warme Meats to ſtrengthen and refreſh his weak and miſ<g ref="char:EOLhyphen"/>guided thoughts, to whom he ſaid, he was never better in all his life; and if they but knew the leaſt of that with which he was <pb n="6" facs="tcp:170505:4"/>then poſſeſſed with, and could but appre<g ref="char:EOLhyphen"/>hend, and behold what he ſaw and beheld, they would not part with the leaſt portion of that Spiritual Felicity, for all the En<g ref="char:EOLhyphen"/>dowments which the World ſhould give them.</p>
+            <p>His friends ſtanding in admiration of him; and the Evening drawing on, they parted from one another, and Mr. <hi>Wiſe<g ref="char:EOLhyphen"/>man</hi> having taken his leave of them, and thanked them for their courteſie, returned towards his own Parſonage of <hi>Greenway.</hi> He had not gone above the length of halfe an Acre, but an Angel, as dazeling to be<g ref="char:EOLhyphen"/>hold, as impoſſible to expreſs, did encoun<g ref="char:EOLhyphen"/>ter him on the way, and touching him with a white Wand, ſaid unto him,</p>
+            <p>
+               <hi>Be of courage and fear not, beloved, and defended by the Powers above.</hi> Thou haſt ſéen many things unrevealed to other men; and it will be thy happineſs to ſée a great part of them fulfilled.</p>
+            <p>Doſt not thou ſee ſo many Crawling and Ob<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rious things that are returning to curle themſelves in their own beds again, They are the many Seditions, Factions, and Hereſies, which having béen permit<g ref="char:EOLhyphen"/>ted to come out of the Monſtrous Wombs <pb n="7" facs="tcp:170505:4"/>of Ignorance, Rebellion, and Confuſion, are now returning to their own Center: They left Hell empty to people this Na<g ref="char:EOLhyphen"/>tion, and to ſpeak truth, there was more Order in Hell without them, then there was lately in your Nation with them.</p>
+            <p>Who it was that called them into this Land, and did awaken them from their old beds to diſeaſe and diſreſt them, this is not a fit place nor time to reveale; We have a Catalogue of their names above in Heaven, and they hang in Files on the Infernal Rolls.</p>
+            <p>The World was made in Order, and it is Order only that will preſerve it. There muſt bee a Superiority, and a power
+<hi>Superintendant</hi> our all the reſt: Look but on your owe hand, and you will confeſs, that it were a very unfit Inſtru<g ref="char:EOLhyphen"/>ment if the fingers were all of an equall length.</p>
+            <p>Mr. <hi>Wiſeman</hi> hearing as well the voice, as obſerving the admirable ſplendor of the Angel, remained as a thing loſt betwixt Amazements and Fears; when by and by the Angel departing from him &amp; giving him a gentle bruſh with his ſilver Wings at his departure, Mr.
+<hi>VViſeman</hi> did ſéem <pb n="8" facs="tcp:170505:5"/>to be more incouraged thereby, and looking round about him, and reſolving to go home with all the ſpéed that a body ſo old as his would permit; he ſound his hope to be in<g ref="char:EOLhyphen"/>treached upon by deſpair, for to his ap<g ref="char:EOLhyphen"/>pearance the Sun (it being then but four in the afternoon) began to loſe his light as if it had béen but a ſhort day
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the begin<g ref="char:EOLhyphen"/>ning of
+<hi>January;</hi> his abſence was atten<g ref="char:EOLhyphen"/>ded with many thick Clouds of darkneſſe; and to make his words and his fears the greater theſe Clouds ſéemed to be of ſe<g ref="char:EOLhyphen"/>veral complexions.</p>
+            <p>Sometimes they ſéemed to be of a du<g ref="char:EOLhyphen"/>skiſh pale colour, as is the colour of the Earth; ſometimes again of a dark gréen, and blew, ſuch as is the colour of the Sea; ſometimes Azure, as is the colour of the Elements; and ſometimes of an angry Red, as is the colour of the Fire.</p>
+            <p>The Clouds that were of a duskiſh co<g ref="char:EOLhyphen"/>lour repreſented ſeveral forms, and dull conditions of many perſons with their Arms folded up, as if they would be con<g ref="char:EOLhyphen"/>tent with any Government, provided they could but kéep their gold, and the dul trea<g ref="char:EOLhyphen"/>ſures of the Earth with them.</p>
+            <pb n="9" facs="tcp:170505:5"/>
+            <p>There were alſo many men and crea<g ref="char:EOLhyphen"/>tures to be ſéen in the dark gréen and blue colour; and there were ſwarms of Bats flying like <hi>Independants</hi> in the Ayre, too wiſe to own Earth and too weak of wing to fly aloft to Heaven.</p>
+            <p>That which did moſt
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffect him, were many choice and gallant bodies of Azure colour, and ſome of perfect White, all dif<g ref="char:EOLhyphen"/>fering in their ſtature, but reſembling one another in their degrées, as well in their Honour as in their Innocence.</p>
+            <p>And it is to be obſerved, that as they were all diſtinct from one another, as wel by their Voices as Complexions; ſo there was no where any true Harmony to be found but in theſe only.</p>
+            <p>The laſt Creatures in the Clouds were ſome of a Scarlet, and ſome of a Purple Complexion; ſome of them in long Coats from their ſhoulders down to their Féet were walking up and down the Stréets and whiſpering Treaſon; and becauſe they had not their own Order, they would admit of no Order. A wretched Gene<g ref="char:EOLunhyphen"/>ration of men, they looked moſt of them like Citizens, and knew neither how to govern, nor to be governed.</p>
+            <pb n="10" facs="tcp:170505:6"/>
+            <p>But thoſe in Scarlet were moſt of them on foot, and armed either with Pike or Muſquet, and looked very ſuperciliouſly, as if they would give Laws to thoſe men, who of themſelves would obſerve no Laws but their own.</p>
+            <p>The ſight of ſo many perſons, ſo ſtrange in their Tempers, as in their Complexi<g ref="char:EOLhyphen"/>ons, and Habits, did wondefully perplex Mr.
+<hi>Wiſeman;</hi> but a voice was heard, <hi>the Lord is thy Guide,</hi> which voyce did give a new Incouragement unto him, when behold a battle in the Ayre, Eagles ſought againſt Griffins, and Bears a<g ref="char:EOLhyphen"/>gainſt Boars, Tygers againſt Lions, and Wolves againſt Leopards, the num<g ref="char:EOLhyphen"/>ber on both ſides ſéem'd to be infinite and would have amazed the ſight, but behold, in leſſe then an hours ſpace they vaniſhed: And men ſought againſt men, both on Horſe-back and Foot, they all fought like Lions; but they who carried their Lions Paſſant in their deſignes, were un<g ref="char:EOLhyphen"/>doubtedly the Conquerors.</p>
+            <p>After this, there was to be ſéen a Ci<g ref="char:EOLhyphen"/>ty all on fire, a great City, and although of innumerable buildings, yet hardly able to containe her people. And after that a <pb n="11" facs="tcp:170505:6"/>Cloud of Diſmall Smoake which for a while waving up and down, there appear<g ref="char:EOLhyphen"/>ed at the laſt a finger of fire, which point<g ref="char:EOLhyphen"/>ing to Mr. <hi>Wiſeman,</hi> he drew néere unto it, and heard a voice which commanded him to go home, and declare unto the world this enſuing Propheſie.</p>
+            <div type="prophecy">
+               <lg>
+                  <head>The Propheſie.</head>
+                  <l>ONe thouſand ſix hundred ſixty and one,</l>
+                  <l>a great diſpute will be,</l>
+                  <l>And Presbyterians muſt all vaile</l>
+                  <l>to thoſe of the Hierarchy.</l>
+                  <l>At this much murmur will ariſe,</l>
+                  <l>and they would all destroy</l>
+                  <l>Both Train men and Auxiliaries</l>
+                  <l>that ſay <hi>Vive le Roy.</hi>
+                  </l>
+                  <l>But they ſhall all be quel'd,</l>
+                  <l>although their numbers are ſo many</l>
+                  <l>VVhom Providence hath armed now,</l>
+                  <l>ſhall nere be quel'd by any.</l>
+                  <l>Three fruitful years of Corn will be,</l>
+                  <pb n="12" facs="tcp:170505:7"/>
+                  <l>of Cattel, fruit, and hay,</l>
+                  <l>And three dear years after you'l ſee</l>
+                  <l>to eat theſe clean away.</l>
+                  <l>Old women this year will dyc a pace</l>
+                  <l>middle age with feavours ſtrives</l>
+                  <l>In deaths path young babes take their race</l>
+                  <l>at Seas men loſe their lives.</l>
+                  <l>The greateſt fight at Sea will be,</l>
+                  <l>never the like known before,</l>
+                  <l>All Nations thick us woods of trees,</l>
+                  <l>the Seas a purple gore.</l>
+                  <l>A many people will run mad</l>
+                  <l>and men will kill their wives,</l>
+                  <l>The Son to wrong his Father is glad</l>
+                  <l>and untimely loſe their lives.</l>
+                  <l>For ſin great plagues on Cities inſue</l>
+                  <l>the bellconstantly toles,</l>
+                  <l>To bury two thouſand a week will be true</l>
+                  <l>O Lord receive their ſculs.</l>
+                  <l>A mighty Earthquake by Gods power</l>
+                  <l>in ſeverall places tot'h Land ſend.</l>
+                  <l>Which will ſhake ſtately towns and towers,</l>
+                  <l>and thus I make an end.</l>
+               </lg>
+               <pb n="13" facs="tcp:170505:7"/>
+               <list>
+                  <head>The Names of the chief Pariſhoners which doe deſire to have their hands annexed to confirm this won<g ref="char:EOLhyphen"/>derful Prediction; are</head>
+                  <item>
+                     <hi>John VVilles</hi> Eſquire.</item>
+                  <item>
+                     <hi>Tho. Brown</hi> Head Conſtable.</item>
+                  <item>
+                     <hi>VVilliam Dean.</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Corbet.</hi>
+                  </item>
+                  <item>
+                     <hi>Simond Mayn.</hi> Jun.</item>
+                  <item>
+                     <hi>Sam. VValter.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Mayn.</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Creſil.</hi>
+                  </item>
+                  <item>
+                     <hi>Moſes Treton.</hi>
+                  </item>
+                  <item>
+                     <hi>Michael James.</hi>
+                  </item>
+                  <item>
+                     <hi>Valentine Strowd.</hi>
+                  </item>
+                  <item>
+                     <hi>John Andrews.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <div n="punishment" type="account">
+            <pb n="14" facs="tcp:170505:8"/>
+            <head>The great and grievous puniſhment which by the moſt juſt judgement of Almighty God fell upon <hi>Dorothy Matley</hi> widow, of the pariſh of <hi>Aſhover</hi> within fifteen miles of the tamous
+<hi>Derby,</hi> who the ground opening was ſwallowed up within it for her grievous ſin of imprecation.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>E read in the holy Scri<g ref="char:EOLhyphen"/>pture that the ground opening ſwallowed up the rebellious</hi> Corah, Dathan, <hi>and</hi> Abiram; <hi>this was a fearful judg<g ref="char:EOLhyphen"/>ment, at which all the whole Tribes of</hi> Iſrael
+<hi>were amazed and ſilenced. The like we read in many Hi<g ref="char:EOLhyphen"/>ſtories; and the ſad puniſhment in the like nature which befell this Woman in</hi> Derby ſhire <hi>is moſt memorable.</hi>
+            </p>
+            <pb n="15" facs="tcp:170505:8"/>
+            <p>Her name was <hi>Dorothy Matley,</hi> a woman noted for pilfering and defrauding her neighbours, but above all her moſt grie<g ref="char:EOLhyphen"/>vous ſin of imprecation; for when ſhe had wronged any of her Neighbours, which ſhe would do often, and was re<g ref="char:EOLhyphen"/>proved by them for it ſhe would pre<g ref="char:EOLhyphen"/>ſently fall a ranting and curſing bitterly, and wiſh that the ground might open and ſwallow her alive, if ſhe had done any ſuch thing.</p>
+            <p>It ſo fell out, that on Saturday on the 23. of <hi>March</hi> laſt ſhe had purloyned from a poor boy two ſingle pence, the boy miſſing of his money complained to his Mother, and told her that
+<hi>Dorothy Matley</hi> had got it from him; his Mother coming to her, found her waſhing and purging of <hi>Lead-Ore</hi> from the Rubbiſh with which it was digged up, and de<g ref="char:EOLhyphen"/>manded the two ſingle pence of her, but ſhe moſt wretchedly denyed it, and wiſhed that the ground might open, and that ſhe might ſink alive into it, if ſhe had it, when behold the juſt judgement of God, for im<g ref="char:EOLhyphen"/>mediately at that very inſtant the ground did open and ſwallowed her<g ref="char:punc">▪</g> who per<g ref="char:EOLhyphen"/>ceiving whether ſhe was a going made a
+<pb n="16" facs="tcp:170505:9"/>diſmal cry and noiſe, but it was in vain, for the ground gaping ſwallowed her ſelf and the Tub in which ſhe was waſhing, did ſuddenly cloſe again.</p>
+            <p>The neighbours, and ſome that knew did dig for her body, and found it a great way in the Earth, but as for the Tub in which ſhe waſhed, they could not find it, although they digged deep for it.</p>
+            <p>This was a dreadful judgement, and may ſerve for an example to all the God dammers of our times; and to all other that are guilty of the like Imprecations: therefore let them conſider of this and re<g ref="char:EOLhyphen"/>pent leaſt they be torn in pieces, as the Prophet <hi>Daved</hi> hath it, and there be none to deliver them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
